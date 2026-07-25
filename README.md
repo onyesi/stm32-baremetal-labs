@@ -11,6 +11,7 @@ Instead of learning GPIO, UART, ADC and other peripherals as isolated topics, I 
 
 As the project evolves, additional peripherals, sensors and software modules will be introduced to satisfy new functional requirements.
 
+<img width="3024" height="4032" alt="LDR" src="https://github.com/user-attachments/assets/5a43b371-b065-4411-bbbc-19e58a953ffc" />
 
 
 # Project Goal
