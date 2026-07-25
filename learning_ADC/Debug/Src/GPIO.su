@@ -1,0 +1,3 @@
+../Src/GPIO.c:21:6:GPIO_INIT	4	static
+../Src/GPIO.c:71:6:led_On	4	static
+../Src/GPIO.c:80:6:led_Off	4	static

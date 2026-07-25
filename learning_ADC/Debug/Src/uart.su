@@ -1,0 +1,4 @@
+../Src/uart.c:36:6:USART_Init	4	static
+../Src/uart.c:64:6:Transmit_data	16	static
+../Src/uart.c:84:9:Receive_data	4	static
+../Src/uart.c:99:5:__io_putchar	16	static
